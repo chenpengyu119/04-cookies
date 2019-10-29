@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04-cookies.iml" filepath="$PROJECT_DIR$/04-cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/closespider/closespider.iml" filepath="$PROJECT_DIR$/closespider/closespider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpatern/designpatern.iml" filepath="$PROJECT_DIR$/designpatern/designpatern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcclient/jdbcclient.iml" filepath="$PROJECT_DIR$/jdbcclient/jdbcclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/network/network.iml" filepath="$PROJECT_DIR$/network/network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redspider/redspider.iml" filepath="$PROJECT_DIR$/redspider/redspider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflect/reflect.iml" filepath="$PROJECT_DIR$/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testfirstexam/testfirstexam.iml" filepath="$PROJECT_DIR$/testfirstexam/testfirstexam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjdbc/testjdbc.iml" filepath="$PROJECT_DIR$/testjdbc/testjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testnetwork/testnetwork.iml" filepath="$PROJECT_DIR$/testnetwork/testnetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsocket/testsocket.iml" filepath="$PROJECT_DIR$/testsocket/testsocket.iml" />
+    </modules>
+  </component>
+</project>

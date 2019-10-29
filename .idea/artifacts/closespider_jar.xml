@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="closespider:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/closespider_jar</output-path>
+    <root id="archive" name="closespider.jar">
+      <element id="module-output" name="closespider" />
+    </root>
+  </artifact>
+</component>
